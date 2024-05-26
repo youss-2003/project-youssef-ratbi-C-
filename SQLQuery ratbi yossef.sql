@@ -4,8 +4,8 @@ create table utilisateur(
 email varchar(255),
 pass varchar(255)
 );
-insert into utilisateur values('admin','adminadmin');
-select * from utilisateur
+insert into utilisateur values('admin','admin');
+select * from Quartier
 
 CREATE TABLE Ville (
     ID_ville INT PRIMARY KEY,
@@ -79,6 +79,7 @@ CREATE TABLE Participation (
     FOREIGN KEY (ID_Membre) REFERENCES Membre(ID_Membre),
     FOREIGN KEY (ID_Événement) REFERENCES Événement(ID_Événement)
 );
+select * from Participation
 
 CREATE TABLE Comité (
     ID_Comité INT PRIMARY KEY,
@@ -87,7 +88,7 @@ CREATE TABLE Comité (
     ID_Association INT,
     FOREIGN KEY (ID_Association) REFERENCES Association(ID_Association)
 );
-
+select * from Comité
 CREATE TABLE Documents (
     ID_Document INT PRIMARY KEY,
     Nom_document VARCHAR(255),

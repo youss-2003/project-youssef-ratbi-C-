@@ -8,7 +8,7 @@ namespace new_project_youssef_ratbi
         public dashboard()
         {
             InitializeComponent();
-            // Populate ComboBox with form names
+            // Populate ComboBox1 with form names
             comboBox1.Items.Add("Gestion des associations");
             comboBox1.Items.Add("Quartier");
             comboBox1.Items.Add("Association");
@@ -20,7 +20,17 @@ namespace new_project_youssef_ratbi
             comboBox1.Items.Add("Participation");
             comboBox1.Items.Add("Comité");
             comboBox1.Items.Add("Évaluations");
-            comboBox1.Items.Add("Form2");
+            // Populate ComboBox2 with form names
+            comboBox2.Items.Add("Ville");
+            comboBox2.Items.Add("Quartier");
+            comboBox2.Items.Add("Association");
+            comboBox2.Items.Add("Membre");
+            comboBox2.Items.Add("Rôles");
+            comboBox2.Items.Add("Événement");
+            comboBox2.Items.Add("Finance");
+            comboBox2.Items.Add("Participation");
+            comboBox2.Items.Add("Comité");
+            comboBox2.Items.Add("Évaluations");
         }
 
         private void dashboard_Load(object sender, EventArgs e)
@@ -127,6 +137,67 @@ namespace new_project_youssef_ratbi
         private void label2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string selectedForm = comboBox2.SelectedItem.ToString();
+            switch (selectedForm)
+            {
+                case "Ville":
+                    Gridville gdv = new Gridville();
+                    gdv.Show();
+                    this.Hide();
+                    break;
+                case "Quartier":
+                    Gridquartier qua = new Gridquartier();
+                    qua.Show();
+                    this.Hide();
+                    break;
+                case "Association":
+                    Gridassociation gass = new Gridassociation();
+                    gass.Show();
+                    this.Hide();
+                    break;
+                case "Membre":
+                    Gridmembre gmem = new Gridmembre();
+                    gmem.Show();
+                    this.Hide();
+                    break;
+                case "Rôles":
+                    Gridroles grol = new Gridroles();
+                    grol.Show();
+                    this.Hide();
+                    break;
+                case "Événement":
+                    Gridevenement geve = new Gridevenement();
+                    geve.Show();
+                    this.Hide();
+                    break;
+                case "Finance":
+                    Gridfinance gfin = new Gridfinance();
+                    gfin.Show();
+                    this.Hide();
+                    break;
+                case "Participation":
+                    Gridparticipation gpar = new Gridparticipation();
+                    gpar.Show();
+                    this.Hide();
+                    break;
+                case "Comité":
+                    Gridcomite gcom = new Gridcomite();
+                    gcom.Show();
+                    this.Hide();
+                    break;
+                case "Évaluations":
+                    Gridevaluation geva = new Gridevaluation();
+                    geva.Show();
+                    this.Hide();
+                    break;
+                default:
+                    MessageBox.Show("Fonction n'existe pas !", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    break;
+            }
         }
     }
 }

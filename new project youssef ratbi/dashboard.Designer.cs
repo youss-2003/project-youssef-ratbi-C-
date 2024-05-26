@@ -93,21 +93,19 @@
             this.label6.Font = new System.Drawing.Font("Tahoma", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(205, 430);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(139, 22);
+            this.label6.Size = new System.Drawing.Size(164, 22);
             this.label6.TabIndex = 19;
-            this.label6.Text = "Liste Des Clients";
+            this.label6.Text = "Liste Des Operation";
             // 
             // comboBox2
             // 
             this.comboBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
-            "hi",
-            "hello"});
             this.comboBox2.Location = new System.Drawing.Point(209, 468);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(257, 37);
             this.comboBox2.TabIndex = 18;
+            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // label4
             // 
@@ -115,9 +113,9 @@
             this.label4.Font = new System.Drawing.Font("Tahoma", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(205, 312);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(139, 22);
+            this.label4.Size = new System.Drawing.Size(202, 22);
             this.label4.TabIndex = 17;
-            this.label4.Text = "Liste Des Clients";
+            this.label4.Text = "Gestion des associations";
             // 
             // comboBox1
             // 

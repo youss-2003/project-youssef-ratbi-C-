@@ -22,3 +22,39 @@ E:\bo9al2024\projet youssef ratbi\new project youssef ratbi\new project youssef 
 E:\bo9al2024\projet youssef ratbi\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Membre.resources
 E:\bo9al2024\projet youssef ratbi\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Participation.resources
 E:\bo9al2024\projet youssef ratbi\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Roles.resources
+E:\bo9al2024\projet youssef ratbi\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridville.resources
+D:\new project youssef ratbi\new project youssef ratbi\bin\Debug\new project youssef ratbi.exe.config
+D:\new project youssef ratbi\new project youssef ratbi\bin\Debug\new project youssef ratbi.exe
+D:\new project youssef ratbi\new project youssef ratbi\bin\Debug\new project youssef ratbi.pdb
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new project youssef ratbi.csproj.AssemblyReference.cache
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new project youssef ratbi.csproj.SuggestedBindingRedirects.cache
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Annonce.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Association.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Comite.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.dashboard.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Documents.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Evaluations.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Evenement.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Finance.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Form1.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.gestion_des_associations.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridville.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Membre.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Participation.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Properties.Resources.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Quartier.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Roles.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new project youssef ratbi.csproj.GenerateResource.cache
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new project youssef ratbi.csproj.CoreCompileInputs.cache
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new project youssef ratbi.exe
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new project youssef ratbi.pdb
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridquartier.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridassociation.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridannonce.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridmembre.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridroles.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridevenement.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridfinance.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridparticipation.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridcomite.resources
+D:\new project youssef ratbi\new project youssef ratbi\obj\Debug\new_project_youssef_ratbi.Gridevaluation.resources

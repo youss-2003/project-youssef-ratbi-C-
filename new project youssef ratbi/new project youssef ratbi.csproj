@@ -106,6 +106,72 @@
     <Compile Include="gestion des associations.Designer.cs">
       <DependentUpon>gestion des associations.cs</DependentUpon>
     </Compile>
+    <Compile Include="Gridannonce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridannonce.Designer.cs">
+      <DependentUpon>Gridannonce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridassociation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridassociation.Designer.cs">
+      <DependentUpon>Gridassociation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridcomite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridcomite.Designer.cs">
+      <DependentUpon>Gridcomite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridevaluation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridevaluation.Designer.cs">
+      <DependentUpon>Gridevaluation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridevenement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridevenement.Designer.cs">
+      <DependentUpon>Gridevenement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridfinance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridfinance.Designer.cs">
+      <DependentUpon>Gridfinance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridmembre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridmembre.Designer.cs">
+      <DependentUpon>Gridmembre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridparticipation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridparticipation.Designer.cs">
+      <DependentUpon>Gridparticipation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridquartier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridquartier.Designer.cs">
+      <DependentUpon>Gridquartier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridroles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridroles.Designer.cs">
+      <DependentUpon>Gridroles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridville.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridville.Designer.cs">
+      <DependentUpon>Gridville.cs</DependentUpon>
+    </Compile>
     <Compile Include="Membre.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -161,6 +227,39 @@
     </EmbeddedResource>
     <EmbeddedResource Include="gestion des associations.resx">
       <DependentUpon>gestion des associations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridannonce.resx">
+      <DependentUpon>Gridannonce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridassociation.resx">
+      <DependentUpon>Gridassociation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridcomite.resx">
+      <DependentUpon>Gridcomite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridevaluation.resx">
+      <DependentUpon>Gridevaluation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridevenement.resx">
+      <DependentUpon>Gridevenement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridfinance.resx">
+      <DependentUpon>Gridfinance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridmembre.resx">
+      <DependentUpon>Gridmembre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridparticipation.resx">
+      <DependentUpon>Gridparticipation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridquartier.resx">
+      <DependentUpon>Gridquartier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridroles.resx">
+      <DependentUpon>Gridroles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridville.resx">
+      <DependentUpon>Gridville.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Membre.resx">
       <DependentUpon>Membre.cs</DependentUpon>
